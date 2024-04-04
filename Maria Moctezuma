@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+
+        <title> Maria Moctezuma | Portfolio | Spring 2024 </title>
+</head>
+<body>
+<nav>
+        <div class="dropdown">
+<button class="dropbtn">About Me</button>
+  <div class="dropdown-content">
+         <a href="#">Hola!</a>
+      <div class="subnav-content"><nav>
+        <div class="dropdown">
+
+
+
+<button class="dropbtn">Projects</button>
+  <div class="dropdown-content">
+         <a href="#">One</a>
+      <div class="subnav-content">
+
+
+<button class="dropbtn">Contact</button>
+  <div class="dropdown-content">
+         <a href="#">Contact</a>
+      <div class="subnav-content">
+
+
+</nav>
+
+</body>
+<html/>
